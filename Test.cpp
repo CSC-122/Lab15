@@ -4,7 +4,6 @@ using namespace std;
 int GCF(int a, int b);
 
 int main(){
-    int a, b;
 
     cout << GCF(888,54)<< endl;
 	// 6
